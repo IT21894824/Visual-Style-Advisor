@@ -121,7 +121,9 @@ To develop a machine learning-based mobile application that offers personalized 
 - **Google Firestore**: NoSQL database for securely storing and managing user data, preferences, and styling history.
 
 
-## Machine Learning Models
+## Machine Learning & Deep Learning Models
+- **VGG-16**
+- **Random Forest Classifier**
 - **Convolutional Neural Networks (CNNs)**
 - **Random Forest**
 - **Support Vector Machines (SVM)**
@@ -161,6 +163,7 @@ To develop a machine learning-based mobile application that offers personalized 
 
 ### Development
 - Google Colab (For data science and ML model development)
+- PyCharm
 - VS Code
 - Android Studio
 
