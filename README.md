@@ -14,7 +14,7 @@ This project is dedicated to creating a highly personalized fashion and beauty r
 - [About the Project](#about-the-project)
 - [Key Features](#key-features)
 - [System Architecture](#system-architecture)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#tools--technologies)
 - [System Requirements](#system-requirements)
 - [Setup Instructions](#setup-instructions)
 - [License](#license)
@@ -124,7 +124,7 @@ To develop a machine learning-based mobile application that offers personalized 
 
 
 ## Machine Learning Models
-- **Logistic Regression**
+- **Convolutional Neural Networks (CNNs)**
 - **Random Forest**
 - **Support Vector Machines (SVM)**
 - **K-Nearest Neighbors (KNN)**
@@ -152,13 +152,7 @@ To develop a machine learning-based mobile application that offers personalized 
 #### Model Persistence
 - Joblib
 
-#### Text Processing
-- PDFMiner.six (Text extraction from PDFs)
-- EasyOCR (Optical Character Recognition)
-- Autocorrect (Spell checking and correction)
-
 #### Utilities
-- bcrypt (Password hashing)
 - Pillow (Image processing)
 
 ### JavaScript/Node.js
