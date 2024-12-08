@@ -40,9 +40,9 @@ To develop a machine learning-based mobile application that offers personalized 
    Develop an innovative machine learning-based mobile application that provides personalized fashion and beauty recommendations for the young generation.
    
 3. **Specific Objectives**  
-   - Hair Style Transformation and Realistic Simulation for Personalized Recommendations.
-   - Personalized Hair Color Recommendation Using Deep Learning.
-   - Clothing Recommendation with Virtual Fit-On
+   - Hair Style Transformation and Realistic Simulation for Personalized Recommendations
+   - Personalized Hair Color Recommendation Using Deep Learning
+   - Clothing Recommendation Based on Body Type and Skin Tone
    - Makeup Recommendation Through Nose Structure and Cheekbone Identification
 
 ---
@@ -56,15 +56,16 @@ To develop a machine learning-based mobile application that offers personalized 
 - Leverage deep learning and image processing to provide real-time, tailored hair color suggestions based on unique user features such as skin tone, eye color, and natural hair color, while considering lifestyle, preferences, and professional trends for enhanced user satisfaction and customization.
 
 ### Clothing Recommendation with Virtual Fit-On - Shaakir J.H.M.​ IT21322280
-- Create fitness schedules using BMI and caloric burn metrics.
-- Monitor real-time data through smartwatches.
+- 
 
 ### Makeup Recommendation Through Nose Structure and Cheekbone Identification - Senarathne D.R.​ IT21213144​
 -Analyze facial features, focusing on the nose structure and cheekbones, to provide personalized makeup recommendations that enhance facial symmetry, define contours, and highlight features, offering a more precise and tailored approach compared to traditional generalized methods.
 
 ### User Dashboard 
-- A single interface for monitoring all health metrics.
-- Insights on diet, exercise, and stress.
+- A centralized interface for accessing personalized fashion and beauty recommendations.
+- Visualize real-time hairstyle, hair color, makeup transformations, and clothing recommendations through virtual fit-on simulations.
+- Insights based on facial features, preferences, and trends.
+- Customize and save style preferences for future use.
 
 ---
 
@@ -72,21 +73,36 @@ To develop a machine learning-based mobile application that offers personalized 
 
 ### Components
 1. **Frontend**  
-   - User-friendly interfaces for clients.
+   - User-friendly mobile application interface.
+   - Virtual fit-on simulations for real-time styling visualization.
    
 2. **Backend**  
    - FastAPI for seamless communication.
    - Machine learning models for predictions.
    
 3. **Data Analysis**
-   - OCR technology for extracting and analyzing blood report data.
-   - Machine learning models including regression, SVM, and CNNs.
+   - Facial feature analysis using image processing and deep learning techniques.
+   - Skin tone, eye color, and body measurements analysis for personalized recommendations.
+
+4. **Recommendation Engine**
+   - Deep learning models for hairstyle, hair color, makeup, and clothing predictions.
+   - Algorithms tailored to user preferences, facial features, and fashion trends.
+
+6. **Database**
+   - Centralized storage for user profiles, preferences, and styling history.
+   - Dynamic updates for style trends and user customization options.
+     
+8. **Integration**
+   - APIs to seamlessly connect the mobile app with machine learning models and database storage.
+   - Continuous learning and improvement pipeline based on user feedback and interaction data.
+
 
 ### Workflow
-1. Input health metrics via smartwatch or manual upload.
-2. OCR processes blood report data for analysis.
-3. Backend predicts health risks and generates recommendations.
-4. Results are displayed on the user dashboard.
+1. Upload a photo or capture a real-time selfie via the mobile app.
+2. Analyzes facial features and body type using advanced image processing and deep learning models.
+3. Machine learning algorithms generate personalized recommendations for hairstyle, hair color, makeup, and clothing.
+4. Recommendations are seamlessly integrated into the Virtual Fit-On, allowing users to visualize the results in real-time.
+5. The final recommendations, along with actionable insights and trends, are displayed on the user dashboard for an interactive and customized experience.
 
 ### Diagram
 ![System Diagram](https://github.com/IT21388002/Lifestyle-Management-System---RP/raw/main/System%20Diagram.png)
