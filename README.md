@@ -4,7 +4,7 @@
 **Developed By**: Prasadi S.A.D.T. IT21894824, Shaakir J.H.M.​ IT21322280​, Vikasitha M.K.I. IT21180798​, Senarathne D.R.​ IT21213144​  
 
 ## Welcome
-This project is dedicated to creating a highly personalized fashion and beauty recommendation system, tailored for the young generation. Our innovative mobile app harnesses the power of machine learning to address the challenges individuals face in selecting hairstyles, hair colors, makeup and clothing recommendation with virtual fit-on capabilities, we aim to redefine how users explore and discover their unique style.
+This project is dedicated to creating a highly personalized fashion and beauty recommendation system, tailored for the young generation. Our innovative mobile app harnesses the power of machine learning to address the challenges individuals face in selecting hairstyles, hair colors, makeup, and clothing recommendations. We aim to redefine how users explore and discover their unique style.
 
 ---
 
@@ -25,14 +25,14 @@ This project is dedicated to creating a highly personalized fashion and beauty r
 
 ## Research Question
 
-How can a machine learning-based mobile application effectively provide personalized fashion and beauty recommendations, including hairstyle transformation, hair color selection, clothing fit, and makeup suggestions, through facial feature analysis and virtual fit-on simulations?
+How can a machine learning-based mobile application effectively provide personalized fashion and beauty recommendations, including hairstyle transformation, hair color selection, clothing fit, and makeup suggestions, through facial feature and body type analysis?
 
 ---
 
 ## About the Project
 
 ### Purpose
-To develop a machine learning-based mobile application that offers personalized fashion and beauty recommendations tailored to individual preferences and facial features. This system aims to address the challenges individuals face when selecting hairstyles, hair colors, clothing, and makeup by providing realistic simulations and interactive tools. By integrating advanced algorithms and virtual fit-on technology, the application seeks to enhance user confidence and decision-making in exploring new styles, ultimately redefining the way individuals approach personal styling and fashion.
+To develop a machine learning-based mobile application that offers personalized fashion and beauty recommendations tailored to individual preferences, body types and facial features. This system aims to address the challenges individuals face when selecting hairstyles, hair colors, clothing, and makeup by providing realistic simulations and interactive tools. By integrating advanced algorithms, the application seeks to enhance user confidence and decision-making in exploring new styles, ultimately redefining the way individuals approach personal styling and fashion.
 
 
 ### Objectives
@@ -55,7 +55,7 @@ To develop a machine learning-based mobile application that offers personalized 
 ### Personalized Hair Color Recommendation Using Deep Learning. - Prasadi S.A.D.T. IT21894824
 - Leverage deep learning and image processing to provide real-time, tailored hair color suggestions based on unique user features such as skin tone, eye color, and natural hair color, while considering lifestyle, preferences, and professional trends for enhanced user satisfaction and customization.
 
-### Clothing Recommendation with Virtual Fit-On - Shaakir J.H.M.​ IT21322280
+### Clothing Recommendation Based on Body Type and Skin Tone - Shaakir J.H.M.​ IT21322280
 - 
 
 ### Makeup Recommendation Through Nose Structure and Cheekbone Identification - Senarathne D.R.​ IT21213144​
@@ -63,7 +63,7 @@ To develop a machine learning-based mobile application that offers personalized 
 
 ### User Dashboard 
 - A centralized interface for accessing personalized fashion and beauty recommendations.
-- Visualize real-time hairstyle, hair color, makeup transformations, and clothing recommendations through virtual fit-on simulations.
+- Visualize real-time hairstyle, hair color, makeup transformations, and clothing recommendations.
 - Insights based on facial features, preferences, and trends.
 - Customize and save style preferences for future use.
 
@@ -74,7 +74,6 @@ To develop a machine learning-based mobile application that offers personalized 
 ### Components
 1. **Frontend**  
    - User-friendly mobile application interface.
-   - Virtual fit-on simulations for real-time styling visualization.
    
 2. **Backend**  
    - FastAPI for seamless communication.
@@ -101,11 +100,10 @@ To develop a machine learning-based mobile application that offers personalized 
 1. Upload a photo or capture a real-time selfie via the mobile app.
 2. Analyzes facial features and body type using advanced image processing and deep learning models.
 3. Machine learning algorithms generate personalized recommendations for hairstyle, hair color, makeup, and clothing.
-4. Recommendations are seamlessly integrated into the Virtual Fit-On, allowing users to visualize the results in real-time.
-5. The final recommendations, along with actionable insights and trends, are displayed on the user dashboard for an interactive and customized experience.
+4. The final recommendations, along with actionable insights and trends, are displayed on the user dashboard for an interactive and customized experience.
 
 ### Diagram
-![System Diagram](https://github.com/IT21388002/Lifestyle-Management-System---RP/raw/main/System%20Diagram.png)
+
 
 
 ---
