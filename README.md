@@ -81,7 +81,7 @@ To develop a machine learning-based mobile application that offers personalized 
    
 3. **Data Analysis**
    - Facial feature analysis using image processing and deep learning techniques.
-   - Skin tone, eye color, and body measurements analysis for personalized recommendations.
+   - Skin tone, eye color, facial features and body measurements analysis for personalized recommendations.
 
 4. **Recommendation Engine**
    - Deep learning models for hairstyle, hair color, makeup, and clothing predictions.
