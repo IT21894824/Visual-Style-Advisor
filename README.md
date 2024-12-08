@@ -104,6 +104,7 @@ To develop a machine learning-based mobile application that offers personalized 
 
 ### Diagram
 
+![White drawio](https://github.com/user-attachments/assets/5ff814f3-9ca1-4505-8887-8638c52fe72e)
 
 
 ---
