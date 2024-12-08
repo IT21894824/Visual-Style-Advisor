@@ -118,7 +118,7 @@ To develop a machine learning-based mobile application that offers personalized 
 - **Node.js**: Potentially used for additional non-Python microservices or integration purposes.
 
 ### Database
-- **Google Firestore**: NoSQL database for securely storing and managing user data, preferences, and styling history.
+- **MongoDB**: NoSQL database for securely storing and managing user data, preferences, and styling history.
 
 
 ## Machine Learning & Deep Learning Models
