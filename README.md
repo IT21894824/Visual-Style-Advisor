@@ -113,14 +113,14 @@ To develop a machine learning-based mobile application that offers personalized 
 ## Tools & Technologies
 
 ### Frontend
-- **Flutter**: Used for cross-platform UI development, primarily on Android (using Android Studio).
+- **React Native**: Used for cross-platform UI development, primarily on Android (using Android Studio).
 
 ### Backend
-- **Python (FastAPI)**: Primary backend framework for building RESTful APIs.
+- **Python (FastAPI)**: Primary backend framework for building RESTful APIs to manage requests and responses.
 - **Node.js**: Potentially used for additional non-Python microservices or integration purposes.
 
 ### Database
-- **Google Firestore**: Used as the NoSQL database for storing and managing application data.
+- **Google Firestore**: NoSQL database for securely storing and managing user data, preferences, and styling history.
 
 
 ## Machine Learning Models
@@ -138,6 +138,10 @@ To develop a machine learning-based mobile application that offers personalized 
 - PyTorch
 - Scikit-learn
 - Keras
+
+#### Image Processing
+- OpenCV (Facial feature detection and analysis)
+- Pillow (Image processing)
 
 #### Data Processing and Visualization
 - Pandas
@@ -158,7 +162,7 @@ To develop a machine learning-based mobile application that offers personalized 
 - Pillow (Image processing)
 
 ### JavaScript/Node.js
-- Relevant libraries as needed, such as Express.js.
+- elevant libraries as needed, such as Express.js, for backend integrations if required.
 
 
 ## Tools
@@ -189,13 +193,14 @@ To develop a machine learning-based mobile application that offers personalized 
 ## System Requirements
 
 ### Functional
-- Input and analyze health data from images or PDFs.
-- Generate personalized recommendations.
+- Accept user images to analyze facial features and body types.
+- Generate personalized recommendations for hairstyles, hair colors, makeup, and clothing.
+- Provide real-time visualization through a virtual fit-on interface.
 
 ### Non-Functional
-- High accuracy for ML predictions.
-- Fast response times.
-- User-friendly interfaces.
+- Ensure high accuracy in recommendation generation.
+- Deliver fast response times for user interactions.
+- Maintain an intuitive and user-friendly interface.
 
 ---
 
@@ -205,7 +210,8 @@ To develop a machine learning-based mobile application that offers personalized 
 - Node.js and npm
 - Python 3.x
 - Google Firestore account
-- Flutter and Android Studio setup
+- React Native environment setup
+- Android Studio
 - Git
 
 --- 
@@ -217,6 +223,6 @@ To develop a machine learning-based mobile application that offers personalized 
 
 ## Git repository Link
 
-Git repository Link : https://github.com/IT21388002/Lifestyle-Management-System---RP.git
+Git repository Link : https://github.com/IT21894824/Visual-Style-Advisor
 
 ---
