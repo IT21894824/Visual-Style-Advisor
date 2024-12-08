@@ -56,10 +56,10 @@ To develop a machine learning-based mobile application that offers personalized 
 - Leverage deep learning and image processing to provide real-time, tailored hair color suggestions based on unique user features such as skin tone, eye color, and natural hair color, while considering lifestyle, preferences, and professional trends for enhanced user satisfaction and customization.
 
 ### Clothing Recommendation Based on Body Type and Skin Tone - Shaakir J.H.M.​ IT21322280
-- 
+- Provides personalized clothing recommendations based on user-uploaded images. Extracts features from the image using the VGG-16 model and classifies them with a Random Forest Classifier. The system predicts the best clothing options tailored to the user's gender, skin tone, and body type.
 
 ### Makeup Recommendation Through Nose Structure and Cheekbone Identification - Senarathne D.R.​ IT21213144​
--Analyze facial features, focusing on the nose structure and cheekbones, to provide personalized makeup recommendations that enhance facial symmetry, define contours, and highlight features, offering a more precise and tailored approach compared to traditional generalized methods.
+- Analyze facial features, focusing on the nose structure and cheekbones, to provide personalized makeup recommendations that enhance facial symmetry, define contours, and highlight features, offering a more precise and tailored approach compared to traditional generalized methods.
 
 ### User Dashboard 
 - A centralized interface for accessing personalized fashion and beauty recommendations.
