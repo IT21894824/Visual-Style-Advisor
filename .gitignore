@@ -1,0 +1,6 @@
+# Ignore virtual environment and model files
+server/venv/
+server/ai_services/haircut_recommendation/model_files/
+server/ai_services/haircolor_recommendation/model_files
+server/ai_services/makeup_recommendation/model_files
+
